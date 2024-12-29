@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+.main{
+    text-align: center;
+}
+h3{
+    font-size: 33px;
+    color: rgb(0, 0, 0);
+}
+img{
+    width: 1200px;
+    height: 200px;
+border-radius: 15px;
+    border: 5px double  black;
+}
+.wi{
+    width: 400px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 44px;
+}
+iframe{
+   position:sticky;
+      margin: 0px 600px 0px 400px  ;
+     position: sticky;
+   display: block;
+    
+}
